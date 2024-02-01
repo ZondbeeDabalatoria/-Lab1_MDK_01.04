@@ -1,0 +1,21 @@
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.csproj.AssemblyReference.cache
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.Form1.resources
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.Properties.Resources.resources
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.csproj.GenerateResource.cache
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\bin\Debug\Project_01.exe.config
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\bin\Debug\Project_01.exe
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\bin\Debug\Project_01.pdb
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.exe
+C:\Users\usersql\Documents\МДК 01.04\Project_01\Project_01\obj\Debug\Project_01.pdb
+C:\Users\Johnny\Documents\Project_01\Project_01\bin\Debug\Project_01.exe.config
+C:\Users\Johnny\Documents\Project_01\Project_01\bin\Debug\Project_01.exe
+C:\Users\Johnny\Documents\Project_01\Project_01\bin\Debug\Project_01.pdb
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.Form1.resources
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.Properties.Resources.resources
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.csproj.GenerateResource.cache
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.exe
+C:\Users\Johnny\Documents\Project_01\Project_01\obj\Debug\Project_01.pdb
